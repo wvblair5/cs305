@@ -17,13 +17,6 @@
 > This project was created by request of the team's software engineering class at Northern Arizona University. Currently, this project is in it's alpha phase release version 1. The website's only main functionalities right now are to submit car info to rent or to rent out a car, and also to make an account. The design and implementation of the site is still preliminary and there will be more changes in the near future. This is just the simple base product of our system.
 <hr>
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-*We are currently still in our alpha pre-release phase and have only been running the server locally until future releases.*
-
-
-
 <!-- CONTRIBUTING -->
 ## Contribution Guidelines
 [Contribution guidelines for this project](CONTRIBUTING.md)
