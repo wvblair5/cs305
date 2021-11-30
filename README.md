@@ -1,6 +1,6 @@
 # cs305
 
-# OnDemand Car
+# OnDemand Car (project from another class)
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
