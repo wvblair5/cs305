@@ -18,3 +18,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Subheading from Ryan Demboski
 blah blah blah blah
+
+## Subheading from David Knight
+blah blah blah blah pt 2
