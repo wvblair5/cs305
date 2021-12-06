@@ -8,6 +8,9 @@
   </p>
 </div>
 
+## Add a secondary fake project
+
+We could add a second fake project to complement the first one.
 
 ## License
 
